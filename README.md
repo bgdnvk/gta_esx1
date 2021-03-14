@@ -2,7 +2,7 @@
 
 dependencies
 
-base
+base  
 https://github.com/esx-framework/async  
 https://github.com/brouznouf/fivem-mysql-async  
 https://github.com/esx-framework/es_extended/tree/v1-final  
@@ -16,9 +16,10 @@ https://github.com/esx-framework/esx_addonaccount
 https://github.com/FlawwsX/mythic_notify  
 https://github.com/DiscworldZA/gta-resources/tree/master/disc-base  
 https://github.com/DiscworldZA/gta-resources/tree/master/disc-ammo  
-disc inventory hud not installed
+TODO: change disc inventory hud, old installed
 
 # char creator
+https://forum.cfx.re/t/release-cleanui-cui-character/1914841  
 https://github.com/PainedPsyche/cui_character
 
 # ESX
@@ -32,4 +33,21 @@ https://github.com/esx-framework/esx_identity
 https://github.com/esx-framework/cron
 ## society
 https://github.com/esx-framework/esx_society
+## billing
+https://github.com/esx-framework/esx_billing
+## addoninventory - conflict?
+https://github.com/esx-framework/esx_addoninventory
+## vehicleshop
+https://github.com/esx-framework/esx_vehicleshop  
+config true  
+## datastore - conflict?
+https://github.com/esx-framework/esx_datastore
+## status
+https://github.com/esx-framework/esx_status  
+## service
+https://github.com/esx-framework/esx_service
+## police
+https://github.com/esx-framework/esx_policejob
+
+
 
