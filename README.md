@@ -49,5 +49,10 @@ https://github.com/esx-framework/esx_service
 ## police
 https://github.com/esx-framework/esx_policejob
 
+# wtf
+https://github.com/kanersps/esplugin_mysql  
+https://github.com/kanersps/essentialmode
+
+
 
 
