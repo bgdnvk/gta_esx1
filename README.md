@@ -28,4 +28,8 @@ https://github.com/esx-framework/skinchanger
 https://github.com/esx-framework/esx_skin  
 ## identity w/o policejob
 https://github.com/esx-framework/esx_identity
+## cron
+https://github.com/esx-framework/cron
+## society
+https://github.com/esx-framework/esx_society
 
