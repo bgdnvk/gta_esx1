@@ -53,6 +53,15 @@ https://github.com/esx-framework/esx_policejob
 https://github.com/kanersps/esplugin_mysql  
 https://github.com/kanersps/essentialmode
 
+# admin
+https://github.com/kanersps/es_admin
+https://github.com/Blumlaut/EasyAdmin/releases
+start EasyAdmin
+add_ace group.admin easyadmin allow
+set ea_moderationNotification "false"
+set ea_minIdentifierMatches 2
+
+start es_admin2
 
 
 
