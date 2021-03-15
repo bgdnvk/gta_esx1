@@ -61,7 +61,8 @@ add_ace group.admin easyadmin allow
 set ea_moderationNotification "false"
 set ea_minIdentifierMatches 2
 
-start es_admin2
+start es_admin2  
+https://forum.cfx.re/t/release-easyadmin-its-as-easy-as-it-gets/42245
 
 
 
